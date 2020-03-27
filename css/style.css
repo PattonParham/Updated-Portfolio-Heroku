@@ -100,6 +100,14 @@ color: lightgrey;
    height: 100px;
    width: 200px;
 }
+.resumelink{
+    border-style: inset;
+    margin-top: -99px;
+    margin-right: 40px;
+    background-color: black;
+    height: 100px;
+    width: 200px;
+}
 .git{
    margin-left: 27px;
    margin-top: 27px;
@@ -107,6 +115,10 @@ color: lightgrey;
 }
 #gitlink{
    color: lightgrey;
+}
+#resumelink{
+    color: lightgrey;  
+    margin-left: 40px;
 }
 
 
