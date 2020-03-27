@@ -1,0 +1,234 @@
+
+#testdiv{background: #ebebeb;
+    padding: 30px;
+    float: right;
+    width: 285px;
+    height: 211px;
+    margin-top: 10px;
+    margin-bottom: 300px;
+    margin-right: 58px;
+    text-align: center;
+
+
+}
+#background-image{
+   z-index: 0;
+}
+
+.Menu{
+   color: lightgrey;
+}
+
+.myNav{
+   background-image: url("../DopeObsidian.jpg");
+   border-style: inset;
+    width: 100%;
+    margin-bottom: 10px;
+    color: lightgrey;
+    text-align: right;
+    height: 100px;
+    line-height: 85px;
+    position: fixed;
+    z-index: 100;
+    
+
+
+}
+.navphoto{
+   height: 100px;
+   width:100%;
+   
+}
+.profpic{
+   margin-left: -14px;
+  border-style: inset;
+   margin-top: -20px;
+   width: 203.5px;
+   height: 139.333333px;
+  
+   
+}
+
+
+.about{
+   background-image: url("../DopeObsidian.jpg");
+    margin-top: 0px;
+    border-style: inset ;
+    padding: 30px;
+    float: center;
+    width: 900px;
+    height: 400px;
+   color: lightgrey;
+    text-align: left;
+  
+    
+}
+.mobileabout{
+   background-image: url("../DopeObsidian.jpg");
+   margin-top: 0px;
+   border-style: inset ;
+   padding: 30px;
+   float: center;
+   width: 900px;
+   height: 400px;
+  color: lightgrey;
+   text-align: left;
+}
+.passgengif{
+width: 200px;
+height: 150px;
+}
+.weathergif{
+width: 200px;
+height: 150px;
+}
+#P{
+color: lightgrey;
+z-index: 50;
+}
+#W{
+color: lightgrey;
+}
+#T{
+color: lightgrey;
+}
+.gitlink{
+   border-style: inset;
+   margin-top: 50px;
+   margin-left: -275px;
+   background-color: black;
+   height: 100px;
+   width: 200px;
+}
+.git{
+   margin-left: 27px;
+   margin-top: 27px;
+   
+}
+#gitlink{
+   color: lightgrey;
+}
+
+
+.E{
+width: 800px;
+}
+
+.submitbtn{
+background-color: black;
+color: lightgrey;
+width: 200px;
+height: 100px;
+
+
+}
+.btnborder{
+   border-style: inset;
+   width: 200px;
+   height: 100px;
+   margin-left: -12px;
+   margin-top: -7px;
+}
+.btntext{
+margin-top: 35px;
+
+}
+.brandy
+.brandbox{
+background-color: black;
+height: 50px;
+border-style: inset;
+}
+.brandtext{
+   
+   margin-top: -20px;
+}
+.textbox{
+   background-color: black;
+margin-left: -15px;
+border-style: inset;
+}
+
+.abouttext{
+margin-left: 10px;
+margin-top: 10px;
+}
+ .aboutheader{
+   background-image: url("../DopeObsidian.jpg");
+    margin-top: 200px;
+    border-style: inset ;
+   
+   color: lightgrey;
+   border-bottom-style: none;
+    
+    padding: 30px;
+    padding-left: 0px;
+   margin-right: 200px;
+    width: 150px;
+    height: 75px;
+    margin-left: 105px;
+    text-align: center;
+     
+ }
+
+
+
+.alllinks{
+ 
+    margin-right: 100px;
+    margin-top: 0px;
+    
+}
+.link1{
+    margin-left: 20px;
+}
+.na1{color: lightgrey;
+}
+
+.link2{
+    margin-left: 20px;
+}
+.na2{color: lightgrey;
+}
+.link3{
+    margin-left: 35px;
+}
+.na3{color: lightgrey;
+}
+@media only screen and (max-width:411px) and (min-width:376){
+   
+    .link1{
+        margin-left: 20px;
+    }
+    
+    .link2{
+        margin-left: 20px;
+    }
+    .link3{
+        margin-left: 35px;
+    }
+    .about{
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width:375px){
+    .alllinks{
+      margin-right: 100px; 
+      font-size: 10pt;
+    }
+    .link1{
+        margin-left: 20px;
+        
+    }
+    
+    .link2{
+        margin-left: 20px;
+      
+    }
+    .link3{
+        margin-left: 35px;
+        
+    }
+
+}

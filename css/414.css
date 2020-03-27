@@ -1,0 +1,65 @@
+.alllinks{float: right;}
+.link1{
+    display: none;
+   margin-top: 100px;
+   margin-right: 50px;
+   margin-left: 0px;
+}
+
+.link2{
+    display: none;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right:30px;
+}
+
+.link3{
+    display: none;
+margin-right: 0px;
+}
+
+.about{
+    width: 300px;
+    height: 765px;
+}
+.aboutheader{
+margin-left: 41px;
+    
+}
+.textbox{
+    margin-top: 10px;
+}
+
+.Down{
+    margin-bottom: 85px;
+}
+.E{
+ width: 250px;   
+
+}
+.Eform{
+    margin-left: -10px;
+}
+.Messageform{
+    margin-left: -10px;
+
+}
+.submitbtn{
+    margin-left: 15px;
+}
+.gitlink{
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+#mainabout{
+display: none;
+}
+#mobileabout{
+margin-top:-1025px;
+margin-right: px;
+height: 800px;
+}
+.about{
+  margin-left: 56px;  
+}
