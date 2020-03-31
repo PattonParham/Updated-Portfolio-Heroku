@@ -74,7 +74,8 @@ margin-right: px;
 height: 800px;
 }
 .about{
-  margin-left: 56px;  
+  margin-left: 56px; 
+  height: 1000px; 
 }
 #mobileportfoliocard{
     height: 1000px;
@@ -103,4 +104,15 @@ height: 800px;
 }
 #contactabout{
     height: 600px;
+}
+.form-control{
+    margin-left:-10px;
+    width: 250px;
+}
+#mobilecontactbtn{
+    margin-top: -10px;
+}
+.textbox{
+    margin-top: 20px;
+    height: 800px;
 }

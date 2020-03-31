@@ -57,7 +57,7 @@
     padding: 30px;
     float: center;
     width: 900px;
-    height: 400px;
+    height: 500px;
    color: lightgrey;
     text-align: left;    
 }
@@ -68,9 +68,18 @@
     height: 500px;
 }
 
+.dm{
+    color: lightgrey;
+    background-color:black;
+    border-color: grey;
+    border-style: inset;
+    
+}
+
 #buttonrow{
 margin-top: -10px;
 }
+
 .mobileabout{
    background-image: url("../DopeObsidian.jpg");
    margin-top: 0px;
@@ -195,6 +204,10 @@ border-style: inset;
    background-color: black;
 margin-left: -15px;
 border-style: inset;
+height: 300px;
+}
+#aboutbreak{
+    margin-top: 50px;
 }
 
 .abouttext{
