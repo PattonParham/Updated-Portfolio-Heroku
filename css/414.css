@@ -65,6 +65,9 @@ margin-left: 41px;
 #mainabout{
 display: none;
 }
+#portfolioabout{
+    display:none;
+}
 #mobileabout{
 margin-top:-1025px;
 margin-right: px;
