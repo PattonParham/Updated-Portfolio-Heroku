@@ -57,9 +57,15 @@
     padding: 30px;
     float: center;
     width: 900px;
-    height: 600px;
+    height: 400px;
    color: lightgrey;
     text-align: left;    
+}
+#portfolioabout{
+    height: 600px;
+}
+#contactabout{
+    height: 500px;
 }
 
 #buttonrow{
@@ -160,6 +166,7 @@ background-color: black;
 color: lightgrey;
 width: 200px;
 height: 100px;
+margin-top: 20px;
 
 
 }

@@ -60,25 +60,36 @@
                       <div class = "fun">Contact</div>
                   </div>
                  </div>
-             <div class = "row about mx-auto" >
+             <div class = "row about mx-auto" id = "contactabout" >
                      
-                      <form>
-                        <div class="form-group Eform">
-                             <label for="exampleFormControlInput1">Email address:</label>
-                                <input type="email" class="form-control E" id="exampleFormControlInput1" placeholder="address@youremailprovider.com">
-                         </div>
-                         <div class="form-group Messageform">
-                                <label for="exampleFormControlTextarea1">Message:</label>
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                              </div>
-                      </form>
-                      <button type = "button" class = "btn submitbtn">
+
+                      <form action="mailto:patton.parham@verizon.net" method="post" enctype="text/plain">
+                        <label for="exampleFormControlInput1">Name:</label>
+                        <br>
+                        <input type="text" name="name" class="form-control E"><br>
+                        <label for="exampleFormControlInput1">Email address:</label>
+                       <br>
+                        <input type="text" name="mail" class="form-control E"><br>
+                        <label for="exampleFormControlTextarea1">Message:</label>
+                        <br>
+                        <input type="text" name="comment"  class="form-control" id="exampleFormControlTextarea1"><br><br>
+                        <button type="submit" value="Send" class = "btn submitbtn" >
                             <div class = "btnborder">
                                 <div class = "btntext">
                             Submit
                         </div>  
-                        </div>
-                            </button>
+                          
+                        </button>
+                        <button type="reset" value="Reset" class = "btn submitbtn"> 
+                            <div class = "btnborder">
+                                <div class = "btntext">
+                            Reset
+                        </div> 
+                            
+                        </button>
+                        </form>
+                        
+                
                  
                  </div>
              </div>
