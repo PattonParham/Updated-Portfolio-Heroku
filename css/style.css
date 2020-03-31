@@ -95,19 +95,32 @@ color: lightgrey;
 .gitlink{
    border-style: inset;
    margin-top: 50px;
-   margin-left: -275px;
+   margin-left: -135px;
    background-color: black;
    height: 100px;
    width: 200px;
 }
 .resumelink{
     border-style: inset;
-    margin-top: -99px;
-    margin-right: 40px;
+    margin-top: 50px;
+    margin-right: 45px;
     background-color: black;
     height: 100px;
     width: 200px;
 }
+.linkedinlink{
+    border-style: inset;
+    margin-top: 50px;
+    margin-left: -265px;
+    background-color: black;
+    height: 100px;
+    width: 200px;
+}
+#linkedcol{
+    margin-left: -290px;
+}
+
+
 .git{
    margin-left: 27px;
    margin-top: 27px;
@@ -119,6 +132,10 @@ color: lightgrey;
 #resumelink{
     color: lightgrey;  
     margin-left: 40px;
+}
+#linkedinlink{
+    color: lightgrey;
+    margin-left: 35px;   
 }
 
 
