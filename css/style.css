@@ -57,11 +57,13 @@
     padding: 30px;
     float: center;
     width: 900px;
-    height: 400px;
+    height: 600px;
    color: lightgrey;
-    text-align: left;
-  
-    
+    text-align: left;    
+}
+
+#buttonrow{
+margin-top: -10px;
 }
 .mobileabout{
    background-image: url("../DopeObsidian.jpg");
@@ -82,9 +84,19 @@ height: 150px;
 width: 200px;
 height: 150px;
 }
+.innerjoinpic{
+width: 200px;
+height: 150px;
+}
+.lowerapprow{
+    margin-top: 20px;
+}
 #P{
 color: lightgrey;
 z-index: 50;
+}
+.applink{
+    color: lightgrey;
 }
 #W{
 color: lightgrey;

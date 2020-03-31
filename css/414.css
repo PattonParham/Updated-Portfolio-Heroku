@@ -50,6 +50,16 @@ margin-left: 41px;
 .gitlink{
     margin-left: 0px;
     margin-top: 50px;
+    height: 75px;
+}
+#gitlink{
+    margin-bottom: 40px;
+}
+.resumelink{
+    height: 75px;
+}
+.linkedinlink{
+    height: 75px;
 }
 
 #mainabout{
@@ -69,8 +79,22 @@ height: 800px;
 #mobileresumebutton{
     margin-top: 25px;
 }
+#mobilegitbutton{
+    margin-top: 25px;
+}
 #mobilelinkedinbutton{
     margin-left: 0px;
     margin-top: 25px;
 
+    height: 75px;
+
+}
+
+.mobilegif{
+    width: 150px;
+    height: 75px;
+}
+
+.mobilegiv{
+    margin-top: 10px;
 }
