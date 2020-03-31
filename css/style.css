@@ -175,7 +175,6 @@ background-color: black;
 color: lightgrey;
 width: 200px;
 height: 100px;
-margin-top: 20px;
 
 
 }
@@ -232,8 +231,15 @@ margin-top: 10px;
      
  }
 
+.alllinks :hover {
+    text-decoration: underline;
+    color: lightgrey;
+}
 
-
+.btntext :hover{
+    text-decoration: underline;
+    color: lightgrey;
+}
 .alllinks{
  
     margin-right: 100px;
@@ -246,6 +252,7 @@ margin-top: 10px;
 .na1{color: lightgrey;
 }
 
+
 .link2{
     margin-left: 20px;
 }
@@ -255,6 +262,7 @@ margin-top: 10px;
     margin-left: 35px;
 }
 .na3{color: lightgrey;
+    
 }
 @media only screen and (max-width:411px) and (min-width:376){
    
