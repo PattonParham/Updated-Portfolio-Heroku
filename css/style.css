@@ -155,6 +155,7 @@ color: lightgrey;
 }
 #gitlink{
    color: lightgrey;
+   margin-left: 20px;
 }
 #resumelink{
     color: lightgrey;  
@@ -300,4 +301,116 @@ margin-top: 10px;
         
     }
 
+}
+@media only screen and (width:1024px){
+    .contactheader{
+        margin-left: 15px;
+    }
+    .na1{
+        display: none;
+    }
+    .na2{
+        display: none;
+    }
+    .na3{
+        display: none;
+    }
+    .Menu{
+        margin-bottom: 80px;
+    }
+
+.aboutheader{
+    margin-left: 15px;
+}
+
+#mobileabout{
+    display: none;
+}
+}
+
+@media only screen and (width:768px){
+    #contactabout{
+        width: 500px;
+    
+    }
+
+    .contactheader{
+        margin-left: 95px;
+    }
+
+
+    .form-control{
+        width: 430px;
+    }
+    .about{
+        width: 500px;
+        height: 650px;
+    }
+    .textbox{
+        height: 420px;
+    }
+    .aboutheader{
+        margin-left: 95px;
+        
+    }
+    .na1{
+        display: none;
+    }
+    .na2{
+        display: none;
+    }
+    .na3{
+        display: none;
+    }
+
+    .Menu{
+        margin-bottom: 80px;
+    }
+    #mobileabout{
+        display: none;
+    }
+    .mobilegif{
+        width: 100px;
+        height: 5px;
+    }
+    .resumelink{
+        width: 100px;
+    }
+    #resumelink{
+        margin-left: -10px;
+    }
+    .gitlink{
+        width: 100px;
+        margin-left: 0px;
+    }
+    #gitlink{
+        margin-left: -10px;
+    }
+    .linkedinlink{
+        width: 100px;
+        margin-left: 0px;
+    }
+    #linkedinlink{
+        margin-left: -10px;
+    }
+    #weatherdash{
+        margin-top: -23px;
+    }
+    #passgen{
+        margin-top: -23px;
+    }
+    #hike{
+        margin-top: -23px;
+    }
+    #hikegif{
+        margin-top: 23px;
+    }
+    #innerjoin{
+        margin-top: 23px;
+    }
+
+}
+
+.Menu{
+    
 }

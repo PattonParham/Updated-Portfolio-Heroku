@@ -1,5 +1,11 @@
-.about{
+.portfolioabout{
     width: 700px;
+    display: none;
+}
+
+#contactabout{
+    width: 500px;
+
 }
 .Menu{
     display:none;
@@ -7,4 +13,7 @@
 .aboutheader{
     float: left;
     margin-left: 0px;
+}
+.mobileabout{
+    display: none;
 }
